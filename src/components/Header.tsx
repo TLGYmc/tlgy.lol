@@ -10,7 +10,10 @@ const Header = () => {
             </h1>
         </div>
         <div className="flex justify-between py-7 mr-8">
-          <div className="mr-4 text-gray-300/70">test</div>
+          <div className="mr-4 text-gray-200 font-medium"><a href="/">Home</a></div>
+          <div className="mr-4 text-gray-200 font-medium"><a href="/about">About</a></div>
+          <div className="mr-4 text-gray-200 font-medium"><a href="/projects">Projects</a></div>
+          <div className="mr-4 text-gray-200 font-medium"><a href="/contact">Contact</a></div>
         </div>
       </div>
     </header>
