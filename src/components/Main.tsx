@@ -1,5 +1,4 @@
 import React from 'react';
-import Typing from './Typing'
 
 const Main = () => {
   return (
@@ -7,7 +6,6 @@ const Main = () => {
         <h1 className="text-3xl">
             Hey, I'm <span className="text-blue-400"> Guest</span>
         </h1>
-        <Typing />
       </div>
   );
 };
