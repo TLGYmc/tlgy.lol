@@ -21,7 +21,7 @@ export default function RootLayout({
         <meta name="description" content="Your website description here" />
         <meta name="keywords" content="keyword1, keyword2, keyword3" />
         <meta name="author" content="Your Name" />
-        <title>Your Website Title</title>
+        <title>Guest - Profile</title>
         <link rel="icon" href="/favicon.ico" />
       </head>
       <body>{children}</body>
